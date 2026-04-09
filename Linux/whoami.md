@@ -1,0 +1,2 @@
+Muestra el usuario actual
+
